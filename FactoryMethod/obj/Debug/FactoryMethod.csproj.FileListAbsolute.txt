@@ -1,0 +1,6 @@
+C:\Users\Muhammad.bilal\Documents\GitHub\Design Patterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad.bilal\Documents\GitHub\Design Patterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\Muhammad.bilal\Documents\GitHub\Design Patterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\Muhammad.bilal\Documents\GitHub\Design Patterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\Muhammad.bilal\Documents\GitHub\Design Patterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\Muhammad.bilal\Documents\GitHub\Design Patterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
