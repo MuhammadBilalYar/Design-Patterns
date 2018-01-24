@@ -15,3 +15,5 @@
 ################################################################################
 /FactoryMethod/bin
 /FactoryMethod/obj
+/Singleton/bin/Debug
+/Singleton/obj/Debug
